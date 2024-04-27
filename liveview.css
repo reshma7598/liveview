@@ -1,0 +1,163 @@
+
+ 
+ .img1{
+    padding: 350px 0px;
+    background-image: url(./image/pexels-technobulka-2977304.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    /* opacity: 0.65; */
+    z-index: -1;
+ }
+.head{
+    color: white;
+    font-size: 22px;
+    position: absolute;
+    width: 1000px;
+    padding-left:200px ;
+    letter-spacing: 1.1px;
+    /* background-color: #232323; */
+}
+.note{
+    color: #f33f3f;
+}
+.nav h2{
+    /* display: inline; */
+  padding:15px;
+  font-size: 17px;
+  float:inline-end;
+  /* background-color: #232323; */
+  color: white;
+  letter-spacing: 1.1px;
+  
+  }
+  .nav h2:hover{
+    color:#f33f3f;
+  }
+  .con h4{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-200%);
+  text-align: center;
+  width: 100%;
+  font-size: 40px;
+  color: #f33f3f;
+  }
+  .con h1{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    width: 100%;
+    font-size: 80px;
+    color: #ffffff;
+    }
+    .Latest {
+        margin-top: 100px;
+        color: black;
+        padding-left: 80px;
+        font-size: 25px;
+        /* top: 90px; */
+}
+.img2{
+padding-left: 150px;
+}
+.down{
+  padding-left:200px;
+    position: relative;
+    box-sizing: border-box;
+    /* margin: 90px; */
+    display: inline-block;
+}
+.down h4{
+  font-size: 20px;
+    color: #1a6692;
+}
+.down h5{
+  position: relative;
+        top: 0;
+        right: 0;
+        margin-bottom: 20px;
+        font-size: 20px;
+}
+.product .down ul li {
+  display: inline-block
+}
+.ul{
+  padding: 1px;
+    margin: 1px;
+    list-style: none; 
+}
+.star li{
+  display: inline-block;
+  color: #f33f3f;
+}
+.img3{
+padding-left:600px;
+position: absolute;
+vertical-align: middle;
+top: 126%;
+}
+
+.img4{
+  width: 100%;
+    overflow: hidden;
+padding-left:1050px;
+position: absolute;
+top: 126%;
+}
+
+.img5{
+padding-left:150px;
+vertical-align: middle;
+}
+.img6{
+  padding-left:600px;
+  position: absolute;
+  vertical-align: middle;
+  top: 177%;
+  }
+  .img7{
+    width: 100%;
+      overflow: hidden;
+  padding-left:1050px;
+  position: absolute;
+  top: 177%;
+  }
+  .end{
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    position: absolute;
+    width: 1000px;
+    padding-left:200px ;
+    letter-spacing: 1.1px;
+  }
+
+  .about{
+    padding: 200px;
+    letter-spacing: 1.2px;
+  }
+  .about h1{
+    font-size: 35px;
+    color: #1a6692;
+  }
+  .about p{
+    font-size: 20px;
+    text-align:left;
+    line-height: 30px;
+  }
+  .about li{
+    font-size: 17px;
+    line-height: 35px;
+  }
+  .nav2:hover{
+     background-color:#f33f3f;
+    border-radius: 5%;
+     width: 130px;
+  }
+  .footer{
+        padding:200px;
+        position: absolute;
+        right: 100px;
+        top: 1650px;
+  }
